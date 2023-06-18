@@ -1,0 +1,45 @@
+*{
+       
+
+    box-sizing:border-box;
+}
+
+
+h1{
+     /* width:10%; 
+      */
+      border:2px dashed red;
+    
+     /* height:50%; */
+     /* background-color:black; */
+       color:black;
+       font-size:2rem;
+       /* width:400px; */
+       padding:0.5em;
+       margin:1.4em;
+     
+
+
+
+}
+p{
+     /* width:10%; 
+      */
+      border:2px dashed red;
+    
+     /* height:50%; */
+     /* background-color:black; */
+       color:black;
+       font-size:2rem;
+       /* width:400px; */
+       padding:1em;
+       margin:1.4em;
+     border:10px double red;
+     outline:5px double purple;
+     outline-offset:-20px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+
